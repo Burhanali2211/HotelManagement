@@ -1,0 +1,7 @@
+
+--- Bill ---
+Burger (x2): $11.98
+Pizza (x4): $35.96
+
+Total: $47.94
+Thank you for dining with us!
